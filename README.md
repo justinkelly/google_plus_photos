@@ -3,6 +3,11 @@ Google+ Photos - All Chrome
 
 Google+ Photos extension for Chrome that works on all versions - not just Pixels
 
+### Status
+
+* The original extensions javascript has been unminified and adjusted so that it not starts on a non Chromebook Pixel
+* The app loads but files you add to upload don't load and are not uploaded to Google+ at the moment
+
 ### Install
 
 * download this git repository
@@ -11,6 +16,14 @@ Google+ Photos extension for Chrome that works on all versions - not just Pixels
 * Then click 'Load unpacked extension' and choose the folder for this git repo
 
 ![](install.png)
+
+### Use
+
+Once installed you can now launch Google+ Photos from your Chrome apps menu, refer below screenshot of startup in Win 7
+
+![](win7.png)
+
+
 
 
 
