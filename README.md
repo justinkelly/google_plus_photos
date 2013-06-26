@@ -5,7 +5,7 @@ Google+ Photos extension for Chrome that works on all versions - not just Pixels
 
 ### About
 
-* The original extensions javascript has been unminified and adjusted so that it not starts on a non Chromebook Pixel
+* The original extensions from Google has been unminified and adjusted so that it works on a non Chromebook Pixel
 
 ### Install
 
