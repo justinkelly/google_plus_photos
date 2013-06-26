@@ -9,7 +9,9 @@ Google+ Photos extension for Chrome that works on all versions - not just Pixels
 
 ### Install
 
-* Download this git repository
+* Download
+  * the .zip [https://github.com/justinkelly/google_plus_photos/archive/master.zip](https://github.com/justinkelly/google_plus_photos/archive/master.zip)
+  * or the git repository `https://github.com/justinkelly/google_plus_photos.git`
 * In Chrome open `chrome://flags` and Enable 'Experimental Extensions APIs'
  * refer screenshot below
 ![](install_api.png)
